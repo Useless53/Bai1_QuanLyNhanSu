@@ -97,7 +97,10 @@ namespace QuanLyKhachSan
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            FormHuongDan frm = new FormHuongDan();
+            frm.ShowDialog();
+            frm.Close();
+            frm.Dispose();
         }
     }
 }
