@@ -213,9 +213,9 @@
                this.label5.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.label5.Location = new System.Drawing.Point(25, 138);
                this.label5.Name = "label5";
-               this.label5.Size = new System.Drawing.Size(42, 21);
+               this.label5.Size = new System.Drawing.Size(31, 21);
                this.label5.TabIndex = 16;
-               this.label5.Text = "Price";
+               this.label5.Text = "Giá";
                // 
                // textPrice
                // 
