@@ -19,7 +19,10 @@ namespace QuanLyKhachSan
 
         private void butKhachHang_Click(object sender, EventArgs e)
         {
-
+            FormKhachHang frm = new FormKhachHang();
+            frm.ShowDialog();
+            frm.Close();
+            frm.Dispose();
         }
 
         private void butLogIn_Click(object sender, EventArgs e)
