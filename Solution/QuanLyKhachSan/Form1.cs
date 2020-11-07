@@ -43,7 +43,10 @@ namespace QuanLyKhachSan
 
         private void butDoDung_Click(object sender, EventArgs e)
         {
-
+            FormDoDung frm = new FormDoDung();
+            frm.ShowDialog();
+            frm.Close();
+            frm.Dispose();
         }
 
         private void butDichVu_Click(object sender, EventArgs e)

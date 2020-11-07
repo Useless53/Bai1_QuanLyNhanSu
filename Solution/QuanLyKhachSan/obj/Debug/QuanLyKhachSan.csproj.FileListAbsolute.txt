@@ -41,3 +41,16 @@ C:\Users\Admin\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\o
 C:\Users\Admin\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
 C:\Users\Admin\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
 C:\Users\Admin\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormPhong.resources
+C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frm_Start.resources
+C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormKhachHang.resources
+C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormPhong.resources
+C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormDoDung.resources
