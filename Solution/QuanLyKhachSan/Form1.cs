@@ -35,7 +35,10 @@ namespace QuanLyKhachSan
 
         private void butPhong_Click(object sender, EventArgs e)
         {
-
+            FormPhong frm = new FormPhong();
+            frm.ShowDialog();
+            frm.Close();
+            frm.Dispose();
         }
 
         private void butDoDung_Click(object sender, EventArgs e)
