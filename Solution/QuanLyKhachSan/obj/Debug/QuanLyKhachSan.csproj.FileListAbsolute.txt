@@ -54,3 +54,5 @@ C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhach
 C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
 C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
 C:\Users\vominhkhai\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormDoDung.resources
+C:\Users\Admin\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormDoDung.resources
+C:\Users\Admin\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormDichVu.resources

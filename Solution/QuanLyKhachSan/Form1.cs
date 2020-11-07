@@ -51,7 +51,10 @@ namespace QuanLyKhachSan
 
         private void butDichVu_Click(object sender, EventArgs e)
         {
-
+            FormDichVu frm = new FormDichVu();
+            frm.ShowDialog();
+            frm.Close();
+            frm.Dispose();
         }
 
         private void butQLDichVu_Click(object sender, EventArgs e)
