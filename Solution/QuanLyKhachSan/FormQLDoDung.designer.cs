@@ -329,12 +329,12 @@
             // 
             // columnHeader5
             // 
-            this.columnHeader5.Text = "Item ID";
+            this.columnHeader5.Text = "Mã đồ dùng";
             this.columnHeader5.Width = 66;
             // 
             // columnHeader6
             // 
-            this.columnHeader6.Text = "Item\'s Name";
+            this.columnHeader6.Text = "Tên đồ dùng";
             this.columnHeader6.Width = 88;
             // 
             // panel3
@@ -370,12 +370,12 @@
             // 
             // columnHeader3
             // 
-            this.columnHeader3.Text = "Room ID";
+            this.columnHeader3.Text = "Mã phòng";
             this.columnHeader3.Width = 64;
             // 
             // columnHeader4
             // 
-            this.columnHeader4.Text = "Room\'s State";
+            this.columnHeader4.Text = "Trạng thái";
             this.columnHeader4.Width = 86;
             // 
             // panel6
@@ -411,17 +411,17 @@
             // 
             // columnHeader1
             // 
-            this.columnHeader1.Text = "Room ID";
+            this.columnHeader1.Text = "Mã phòng";
             this.columnHeader1.Width = 63;
             // 
             // columnHeader2
             // 
-            this.columnHeader2.Text = "Item ID";
+            this.columnHeader2.Text = "Mã đồ dùng";
             this.columnHeader2.Width = 82;
             // 
             // columnHeader7
             // 
-            this.columnHeader7.Text = "Number";
+            this.columnHeader7.Text = "Số lượng";
             this.columnHeader7.Width = 68;
             // 
             // FormQLDoDung
