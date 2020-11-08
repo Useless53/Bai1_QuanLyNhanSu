@@ -232,5 +232,10 @@ namespace QuanLyKhachSan
             if (butSearch.Text.Trim() == "Search Mode") reset();
             else reset2();
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
