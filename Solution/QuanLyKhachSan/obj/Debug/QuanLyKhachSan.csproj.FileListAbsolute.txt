@@ -70,3 +70,5 @@ C:\Users\giang\OneDrive\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyK
 C:\Users\giang\OneDrive\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormQLDoDung.resources
 C:\Users\giang\OneDrive\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormQLPhong.resources
 C:\Users\Admin\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormQLDichVu.resources
+C:\Users\thong\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormQLDichVu.resources
+C:\Users\thong\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormQLPhong.resources
