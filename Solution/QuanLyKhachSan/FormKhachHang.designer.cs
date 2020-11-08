@@ -131,7 +131,7 @@
                this.butSearch.Name = "butSearch";
                this.butSearch.Size = new System.Drawing.Size(131, 23);
                this.butSearch.TabIndex = 6;
-               this.butSearch.Text = "Search Mode";
+               this.butSearch.Text = "Chế độ tìm kiếm";
                this.butSearch.UseVisualStyleBackColor = true;
                this.butSearch.Click += new System.EventHandler(this.butSearch_Click);
                // 
@@ -141,7 +141,7 @@
                this.butDel.Name = "butDel";
                this.butDel.Size = new System.Drawing.Size(67, 30);
                this.butDel.TabIndex = 5;
-               this.butDel.Text = "Delete";
+               this.butDel.Text = "Xóa";
                this.butDel.UseVisualStyleBackColor = true;
                this.butDel.Click += new System.EventHandler(this.butDel_Click);
                // 
@@ -152,9 +152,9 @@
                this.radAdd.Font = new System.Drawing.Font("Comic Sans MS", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.radAdd.Location = new System.Drawing.Point(23, 54);
                this.radAdd.Name = "radAdd";
-               this.radAdd.Size = new System.Drawing.Size(46, 20);
+               this.radAdd.Size = new System.Drawing.Size(55, 20);
                this.radAdd.TabIndex = 4;
-               this.radAdd.Text = "Add";
+               this.radAdd.Text = "Thêm";
                this.radAdd.UseVisualStyleBackColor = false;
                this.radAdd.CheckedChanged += new System.EventHandler(this.radView_CheckedChanged);
                // 
@@ -167,7 +167,7 @@
                this.radEdit.Name = "radEdit";
                this.radEdit.Size = new System.Drawing.Size(47, 20);
                this.radEdit.TabIndex = 4;
-               this.radEdit.Text = "Edit";
+               this.radEdit.Text = "Sửa";
                this.radEdit.UseVisualStyleBackColor = false;
                this.radEdit.CheckedChanged += new System.EventHandler(this.radView_CheckedChanged);
                // 
@@ -179,10 +179,10 @@
                this.radView.Font = new System.Drawing.Font("Comic Sans MS", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.radView.Location = new System.Drawing.Point(23, 31);
                this.radView.Name = "radView";
-               this.radView.Size = new System.Drawing.Size(50, 20);
+               this.radView.Size = new System.Drawing.Size(49, 20);
                this.radView.TabIndex = 2;
                this.radView.TabStop = true;
-               this.radView.Text = "View";
+               this.radView.Text = "Xem";
                this.radView.UseVisualStyleBackColor = false;
                this.radView.CheckedChanged += new System.EventHandler(this.radView_CheckedChanged);
                // 
@@ -194,9 +194,9 @@
                this.label1.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.label1.Location = new System.Drawing.Point(62, 4);
                this.label1.Name = "label1";
-               this.label1.Size = new System.Drawing.Size(44, 21);
+               this.label1.Size = new System.Drawing.Size(59, 21);
                this.label1.TabIndex = 1;
-               this.label1.Text = "Mode";
+               this.label1.Text = "Chế độ";
                // 
                // butFree
                // 
@@ -205,7 +205,7 @@
                this.butFree.Name = "butFree";
                this.butFree.Size = new System.Drawing.Size(67, 30);
                this.butFree.TabIndex = 0;
-               this.butFree.Text = "View";
+               this.butFree.Text = "Xem";
                this.butFree.UseVisualStyleBackColor = true;
                this.butFree.Click += new System.EventHandler(this.butFree_Click);
                // 
@@ -215,11 +215,12 @@
                this.label8.BackColor = System.Drawing.Color.Gray;
                this.label8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
                this.label8.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-               this.label8.Location = new System.Drawing.Point(26, 189);
+               this.label8.Location = new System.Drawing.Point(0, 183);
                this.label8.Name = "label8";
                this.label8.Size = new System.Drawing.Size(103, 21);
                this.label8.TabIndex = 14;
                this.label8.Text = "Số điện thoại";
+               this.label8.Click += new System.EventHandler(this.label8_Click);
                // 
                // textPhone
                // 
