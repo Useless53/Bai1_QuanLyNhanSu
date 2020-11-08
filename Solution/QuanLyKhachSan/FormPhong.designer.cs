@@ -151,9 +151,9 @@
                this.radAdd.Font = new System.Drawing.Font("Comic Sans MS", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.radAdd.Location = new System.Drawing.Point(16, 51);
                this.radAdd.Name = "radAdd";
-               this.radAdd.Size = new System.Drawing.Size(46, 20);
+               this.radAdd.Size = new System.Drawing.Size(55, 20);
                this.radAdd.TabIndex = 4;
-               this.radAdd.Text = "Add";
+               this.radAdd.Text = "Thêm";
                this.radAdd.UseVisualStyleBackColor = false;
                this.radAdd.CheckedChanged += new System.EventHandler(this.radView_CheckedChanged);
                // 
@@ -166,7 +166,7 @@
                this.radEdit.Name = "radEdit";
                this.radEdit.Size = new System.Drawing.Size(47, 20);
                this.radEdit.TabIndex = 4;
-               this.radEdit.Text = "Edit";
+               this.radEdit.Text = "Sửa";
                this.radEdit.UseVisualStyleBackColor = false;
                this.radEdit.CheckedChanged += new System.EventHandler(this.radView_CheckedChanged);
                // 
@@ -178,10 +178,10 @@
                this.radView.Font = new System.Drawing.Font("Comic Sans MS", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.radView.Location = new System.Drawing.Point(16, 28);
                this.radView.Name = "radView";
-               this.radView.Size = new System.Drawing.Size(50, 20);
+               this.radView.Size = new System.Drawing.Size(49, 20);
                this.radView.TabIndex = 2;
                this.radView.TabStop = true;
-               this.radView.Text = "View";
+               this.radView.Text = "Xem";
                this.radView.UseVisualStyleBackColor = false;
                this.radView.CheckedChanged += new System.EventHandler(this.radView_CheckedChanged);
                // 
@@ -204,7 +204,7 @@
                this.butFree.Name = "butFree";
                this.butFree.Size = new System.Drawing.Size(67, 30);
                this.butFree.TabIndex = 0;
-               this.butFree.Text = "View";
+               this.butFree.Text = "Xem";
                this.butFree.UseVisualStyleBackColor = true;
                this.butFree.Click += new System.EventHandler(this.butFree_Click);
                // 
