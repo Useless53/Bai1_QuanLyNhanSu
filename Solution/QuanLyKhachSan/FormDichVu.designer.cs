@@ -127,7 +127,7 @@
                this.butSearch.Name = "butSearch";
                this.butSearch.Size = new System.Drawing.Size(131, 23);
                this.butSearch.TabIndex = 6;
-               this.butSearch.Text = "Search Mode";
+               this.butSearch.Text = "Chế độ tìm kiếm";
                this.butSearch.UseVisualStyleBackColor = true;
                this.butSearch.Click += new System.EventHandler(this.butSearch_Click);
                // 
