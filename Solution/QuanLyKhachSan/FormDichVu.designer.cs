@@ -201,7 +201,7 @@
                this.butFree.Name = "butFree";
                this.butFree.Size = new System.Drawing.Size(67, 30);
                this.butFree.TabIndex = 0;
-               this.butFree.Text = "View";
+               this.butFree.Text = "Xem";
                this.butFree.UseVisualStyleBackColor = true;
                this.butFree.Click += new System.EventHandler(this.butFree_Click);
                // 
