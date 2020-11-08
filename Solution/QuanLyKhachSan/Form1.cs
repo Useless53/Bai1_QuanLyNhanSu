@@ -72,7 +72,10 @@ namespace QuanLyKhachSan
 
         private void butQLPhong_Click(object sender, EventArgs e)
         {
-
+            FormQLPhong frm = new FormQLPhong();
+            frm.ShowDialog();
+            frm.Close();
+            frm.Dispose();
         }
 
         private void butLogOut_Click(object sender, EventArgs e)
