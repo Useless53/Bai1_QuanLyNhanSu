@@ -64,7 +64,10 @@ namespace QuanLyKhachSan
 
         private void butQLDoDung_Click(object sender, EventArgs e)
         {
-
+            FormQLDoDung frm = new FormQLDoDung();
+            frm.ShowDialog();
+            frm.Close();
+            frm.Dispose();
         }
 
         private void butQLPhong_Click(object sender, EventArgs e)
