@@ -163,7 +163,7 @@
                this.radEdit.Name = "radEdit";
                this.radEdit.Size = new System.Drawing.Size(47, 20);
                this.radEdit.TabIndex = 4;
-               this.radEdit.Text = "Edit";
+               this.radEdit.Text = "Sửa";
                this.radEdit.UseVisualStyleBackColor = false;
                this.radEdit.CheckedChanged += new System.EventHandler(this.radView_CheckedChanged);
                // 
