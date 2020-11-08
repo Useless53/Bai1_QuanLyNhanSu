@@ -148,9 +148,9 @@
                this.radAdd.Font = new System.Drawing.Font("Comic Sans MS", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.radAdd.Location = new System.Drawing.Point(16, 57);
                this.radAdd.Name = "radAdd";
-               this.radAdd.Size = new System.Drawing.Size(46, 20);
+               this.radAdd.Size = new System.Drawing.Size(55, 20);
                this.radAdd.TabIndex = 4;
-               this.radAdd.Text = "Add";
+               this.radAdd.Text = "Thêm";
                this.radAdd.UseVisualStyleBackColor = false;
                this.radAdd.CheckedChanged += new System.EventHandler(this.radView_CheckedChanged);
                // 
@@ -175,10 +175,10 @@
                this.radView.Font = new System.Drawing.Font("Comic Sans MS", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.radView.Location = new System.Drawing.Point(16, 34);
                this.radView.Name = "radView";
-               this.radView.Size = new System.Drawing.Size(50, 20);
+               this.radView.Size = new System.Drawing.Size(49, 20);
                this.radView.TabIndex = 2;
                this.radView.TabStop = true;
-               this.radView.Text = "View";
+               this.radView.Text = "Xem";
                this.radView.UseVisualStyleBackColor = false;
                this.radView.CheckedChanged += new System.EventHandler(this.radView_CheckedChanged);
                // 
@@ -190,9 +190,9 @@
                this.label1.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.label1.Location = new System.Drawing.Point(62, 4);
                this.label1.Name = "label1";
-               this.label1.Size = new System.Drawing.Size(44, 21);
+               this.label1.Size = new System.Drawing.Size(59, 21);
                this.label1.TabIndex = 1;
-               this.label1.Text = "Mode";
+               this.label1.Text = "Chế độ";
                // 
                // butFree
                // 
