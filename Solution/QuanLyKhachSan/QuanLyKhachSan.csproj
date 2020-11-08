@@ -78,6 +78,12 @@
     <Compile Include="FormPhong.designer.cs">
       <DependentUpon>FormPhong.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormQLDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormQLDichVu.designer.cs">
+      <DependentUpon>FormQLDichVu.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormQLDoDung.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -106,6 +112,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormPhong.resx">
       <DependentUpon>FormPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormQLDichVu.resx">
+      <DependentUpon>FormQLDichVu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormQLDoDung.resx">
       <DependentUpon>FormQLDoDung.cs</DependentUpon>

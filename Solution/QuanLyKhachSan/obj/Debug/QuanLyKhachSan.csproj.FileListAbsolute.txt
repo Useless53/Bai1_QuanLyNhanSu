@@ -62,3 +62,10 @@ C:\Users\thong\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\o
 C:\Users\thong\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormQLDoDung.resources
 C:\Users\Admin\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormQLDoDung.resources
 C:\Users\Admin\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormQLPhong.resources
+C:\Users\giang\OneDrive\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormDichVu.resources
+C:\Users\giang\OneDrive\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormDoDung.resources
+C:\Users\giang\OneDrive\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormKhachHang.resources
+C:\Users\giang\OneDrive\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormPhong.resources
+C:\Users\giang\OneDrive\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormQLDichVu.resources
+C:\Users\giang\OneDrive\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormQLDoDung.resources
+C:\Users\giang\OneDrive\Documents\GitHub\Bai5-Quan-li-khach-san\Solution\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormQLPhong.resources
