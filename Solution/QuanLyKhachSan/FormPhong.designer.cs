@@ -130,7 +130,7 @@
                this.butSearch.Name = "butSearch";
                this.butSearch.Size = new System.Drawing.Size(131, 23);
                this.butSearch.TabIndex = 6;
-               this.butSearch.Text = "Search Mode";
+               this.butSearch.Text = "Chế độ tìm kiếm";
                this.butSearch.UseVisualStyleBackColor = true;
                this.butSearch.Click += new System.EventHandler(this.butSearch_Click);
                // 
@@ -140,7 +140,7 @@
                this.butDel.Name = "butDel";
                this.butDel.Size = new System.Drawing.Size(67, 30);
                this.butDel.TabIndex = 5;
-               this.butDel.Text = "Delete";
+               this.butDel.Text = "Xóa";
                this.butDel.UseVisualStyleBackColor = true;
                this.butDel.Click += new System.EventHandler(this.butDel_Click);
                // 
