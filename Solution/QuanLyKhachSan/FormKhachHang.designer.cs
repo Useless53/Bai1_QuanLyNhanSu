@@ -217,9 +217,9 @@
                this.label8.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.label8.Location = new System.Drawing.Point(26, 189);
                this.label8.Name = "label8";
-               this.label8.Size = new System.Drawing.Size(47, 21);
+               this.label8.Size = new System.Drawing.Size(103, 21);
                this.label8.TabIndex = 14;
-               this.label8.Text = "Phone";
+               this.label8.Text = "Số điện thoại";
                // 
                // textPhone
                // 
