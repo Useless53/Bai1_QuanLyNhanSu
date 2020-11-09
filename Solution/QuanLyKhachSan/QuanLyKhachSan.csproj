@@ -66,6 +66,12 @@
     <Compile Include="FormDoDung.designer.cs">
       <DependentUpon>FormDoDung.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormHuongDan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHuongDan.Designer.cs">
+      <DependentUpon>FormHuongDan.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormKhachHang.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -172,5 +178,6 @@
   <ItemGroup>
     <None Include="Resources\Service.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
